@@ -1,2 +1,2 @@
 print("Hello World!")
-print("Chnages made from Guthub")
+print("Changes made from GitHub")
